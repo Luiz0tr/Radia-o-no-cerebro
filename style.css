@@ -1,4 +1,9 @@
 .alinhar {
     align-items: center;
+color: greenyellow;
+}
 
+.Title {
+    align-items: center;
+    color: green;
 }
